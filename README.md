@@ -4,7 +4,7 @@ The **ESP32** is in charge of communicating with a database deployed in *Firebas
 If the password was right, then the user would have to use the **fingerprint reader**, if the fingerprint matches with the one saved in the database, the user is going to be able to open the door.  
 The **ESP32** is going to do the same as before, but the comparison is made between the entered fingerprint and the one saved in the database.
 
-The main components we used are:
+<ins>The main components we used are:</ins>
 - Fingerprint reader
 - ESP32
 - Keypad matrix
